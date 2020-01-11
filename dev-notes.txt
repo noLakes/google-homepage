@@ -1,0 +1,7 @@
+So I'm struggling to implement and remember everything I've learnt so far.
+    
+    Here is what I need to do next:
+
+    > Re-read the basics of HTML/CSS
+    > Learn about how elements can be positioned 
+    > Designate a notebook for this learning endeavor 
